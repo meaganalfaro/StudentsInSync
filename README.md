@@ -4,7 +4,7 @@
 
 * Platform Aggregation:
 
-  Integrates with multiple cloud storage services including Dropbox, OneDrive, Google Drive, and iCloud.
+  \tIntegrates with multiple cloud storage services including Dropbox, OneDrive, Google Drive, and iCloud.
   Allows users to access, upload, and manage files across all platforms from one interface.
 
 * Nextcloud Integration:
